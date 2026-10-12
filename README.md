@@ -1,12 +1,141 @@
+<!--
+  PREMIUM GITHUB PROFILE
+  Replace YOUR-GITHUB-USERNAME everywhere with your GitHub username.
+-->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sanjay102432&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sanjay102432&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanjay102432&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:123B70,100:00C2FF&height=220&section=header&text=AI%20%26%20ML%20ENGINEER&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20tools%20%7C%20Exploring%20local%20AI&descAlignY=58&descSize=15" width="100%" alt="Profile banner"/>
+
+# Hey, I'm Sanjay Bhoye 👋
+
+### AI/ML Explorer · Developer · Builder
+
+*Turning ideas into useful tools, experimenting with AI, and building things that matter.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Projects](https://img.shields.io/badge/Focus-AI%20%26%20ML-075985?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sanjay102432&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01` — About Me
+
+- 🤖 Exploring **AI, machine learning, and local language models**.
+- ⚡ Experimenting with **model inference, GPU optimization, and deployment**.
+- 🎵 Developing **SunoHeal**, an AI music-generation project.
+- 🧰 Building the **Samosa ecosystem** of practical web utilities and developer tools.
+- 🔒 Interested in privacy-focused applications and browser-native processing.
+- 🧪 Learning by experimenting, debugging, and building real projects.
+
+> My philosophy: build useful things, keep learning, and prioritize quality over unnecessary complexity.
+
+## `02` — What I'm Exploring
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+**Areas of interest**
+
+`AI / ML` · `LLMs` · `Model Optimization` · `CUDA / GPU Experiments` · `Web Development` · `Browser APIs` · `Privacy-First Tools` · `AI Music Generation`
+
+## `03` — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 SunoHeal
+
+AI music-generation experiments focused on model configuration, inference optimization, and music creation.
+
+**Focus:** AI · Audio · Model Deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🥟 Samosa Ecosystem
+
+A collection of planned and developing utility applications designed to make everyday digital tasks simpler.
+
+**Focus:** Web Tools · TypeScript · Privacy
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ SamosaDevTools
+
+A developer-toolkit concept featuring JSON formatting, encoding, regex testing, hashing, and text comparison.
+
+**Focus:** Developer Productivity · Browser-Native APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 📁 SamosaFiles
+
+A file utility application concept for conversion and compression, with an emphasis on preserving quality and processing files locally.
+
+**Focus:** File Processing · Web Technologies
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Project descriptions reflect my development interests and ongoing work; availability varies by project.*
+
+</div>
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## `05` — 3D Contribution Graph
+
+<div align="center">
+
+<!-- Set up github-profile-3d-contrib and commit its generated SVG files first. -->
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
+
+</div>
+
+> To activate this section, configure the generator in your profile repository and ensure the SVG path above matches the generated file.
+
+## `06` — Current Mission
+
+- Build practical, polished software.
+- Explore efficient AI models and local inference.
+- Improve my engineering skills through hands-on experiments.
+- Turn useful ideas into reliable projects.
+
+<div align="center">
+
+### Thanks for visiting! 🚀
+
+*Curiosity drives the experiments. Consistency builds the results.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:123B70,100:080D1A&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
