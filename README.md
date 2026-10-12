@@ -5,7 +5,6 @@
 ### I build thoughtful, modern web experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sanjay102432-181717?style=for-the-badge&logo=github)](https://github.com/sanjay102432)
-[![Profile Views](https://komarev.com/ghpvc/?username=sanjay102432&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/sanjay102432)
 
 </div>
 
@@ -33,46 +32,17 @@ I’m a developer interested in building polished, useful products for the web. 
 
 </div>
 
-## Featured work
+## A side project with one rule
 
-<div align="center">
+I’m building **JokeBot**: an AI assistant with a very specific job description. Ask it anything; it turns the prompt into a joke and refuses to be useful.
 
-<a href="https://github.com/sanjay102432">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjay102432&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Sanjay's GitHub stats" />
-</a>
-<a href="https://github.com/sanjay102432">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay102432&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-</a>
+- Joke-only replies, streamed as they arrive
+- Voice playback for the punchline
+- No chat history saved after you leave the page
 
-<br />
+**Live demo:** add the deployed JokeBot URL here after publishing.
 
-<a href="https://github.com/sanjay102432">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay102432&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
-
-</div>
-
-## Contribution activity
-
-<div align="center">
-
-<a href="https://github.com/sanjay102432">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay102432&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Contribution activity graph" />
-</a>
-
-</div>
-
-## 3D contribution view
-
-<div align="center">
-
-<a href="https://github.com/sanjay102432">
-  <img src="https://raw.githubusercontent.com/sanjay102432/sanjay102432/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" />
-</a>
-
-</div>
-
-> To show the 3D contribution card, add the generated `profile-3d-contrib/profile-night-rainbow.svg` asset to this profile repository. The `github-profile-3d-contrib` action can generate it automatically.
+[Browse the JokeBot app and deployment guide](./jokebot/README.md)
 
 ## Let’s connect
 
