@@ -1,141 +1,85 @@
-<!--
-  PREMIUM GITHUB PROFILE
-  Replace sanjay102432 everywhere with your GitHub username.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:123B70,100:00C2FF&height=220&section=header&text=AI%20%26%20ML%20ENGINEER&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20tools%20%7C%20Exploring%20local%20AI&descAlignY=58&descSize=15" width="100%" alt="Profile banner"/>
+# 👋 Hey, I’m Sanjay
 
-# Hey, I'm Sanjay Bhoye 👋
+### I build thoughtful, modern web experiences.
 
-### AI/ML Explorer · Developer · Builder
-
-*Turning ideas into useful tools, experimenting with AI, and building things that matter.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/sanjay102432)
-[![Projects](https://img.shields.io/badge/Focus-AI%20%26%20ML-075985?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/sanjay102432?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjay102432-181717?style=for-the-badge&logo=github)](https://github.com/sanjay102432)
+[![Profile Views](https://komarev.com/ghpvc/?username=sanjay102432&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/sanjay102432)
 
 </div>
 
 ---
 
-## `01` — About Me
+## About me
 
-- 🤖 Exploring **AI, machine learning, and local language models**.
-- ⚡ Experimenting with **model inference, GPU optimization, and deployment**.
-- 🎵 Developing **SunoHeal**, an AI music-generation project.
-- 🧰 Building the **Samosa ecosystem** of practical web utilities and developer tools.
-- 🔒 Interested in privacy-focused applications and browser-native processing.
-- 🧪 Learning by experimenting, debugging, and building real projects.
+I’m a developer interested in building polished, useful products for the web. I enjoy turning ideas into clear, responsive interfaces and connecting them to reliable backend services.
 
-> My philosophy: build useful things, keep learning, and prioritize quality over unnecessary complexity.
+- 🔭 Currently building with **React, TypeScript, Tailwind CSS, and Supabase**
+- 🌱 Growing my skills by building and improving real projects
+- 💡 Interested in frontend engineering, product design, and full-stack development
+- 🤝 Open to learning, collaboration, and interesting web projects
 
-## `02` — What I'm Exploring
+## Tech I work with
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 </div>
 
-**Areas of interest**
-
-`AI / ML` · `LLMs` · `Model Optimization` · `CUDA / GPU Experiments` · `Web Development` · `Browser APIs` · `Privacy-First Tools` · `AI Music Generation`
-
-## `03` — Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 SunoHeal
-
-AI music-generation experiments focused on model configuration, inference optimization, and music creation.
-
-**Focus:** AI · Audio · Model Deployment
-
-</td>
-<td width="50%" valign="top">
-
-### 🥟 Samosa Ecosystem
-
-A collection of planned and developing utility applications designed to make everyday digital tasks simpler.
-
-**Focus:** Web Tools · TypeScript · Privacy
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ SamosaDevTools
-
-A developer-toolkit concept featuring JSON formatting, encoding, regex testing, hashing, and text comparison.
-
-**Focus:** Developer Productivity · Browser-Native APIs
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 SamosaFiles
-
-A file utility application concept for conversion and compression, with an emphasis on preserving quality and processing files locally.
-
-**Focus:** File Processing · Web Technologies
-
-</td>
-</tr>
-</table>
+## Featured work
 
 <div align="center">
 
-*Project descriptions reflect my development interests and ongoing work; availability varies by project.*
+<a href="https://github.com/sanjay102432">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjay102432&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Sanjay's GitHub stats" />
+</a>
+<a href="https://github.com/sanjay102432">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay102432&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/sanjay102432">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay102432&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
-## `04` — GitHub Analytics
+## Contribution activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjay102432&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay102432&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=sanjay102432&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://github.com/sanjay102432">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay102432&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Contribution activity graph" />
+</a>
 
 </div>
 
-## `05` — 3D Contribution Graph
+## 3D contribution view
 
 <div align="center">
 
-<!-- Set up github-profile-3d-contrib and commit its generated SVG files first. -->
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
+<a href="https://github.com/sanjay102432">
+  <img src="https://raw.githubusercontent.com/sanjay102432/sanjay102432/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" />
+</a>
 
 </div>
 
-> To activate this section, configure the generator in your profile repository and ensure the SVG path above matches the generated file.
+> To show the 3D contribution card, add the generated `profile-3d-contrib/profile-night-rainbow.svg` asset to this profile repository. The `github-profile-3d-contrib` action can generate it automatically.
 
-## `06` — Current Mission
-
-- Build practical, polished software.
-- Explore efficient AI models and local inference.
-- Improve my engineering skills through hands-on experiments.
-- Turn useful ideas into reliable projects.
+## Let’s connect
 
 <div align="center">
 
-### Thanks for visiting! 🚀
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay102432)
 
-*Curiosity drives the experiments. Consistency builds the results.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:123B70,100:080D1A&height=100&section=footer" width="100%" alt="Decorative footer"/>
+*Thanks for stopping by — feel free to explore my repositories and say hello.*
 
 </div>
