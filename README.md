@@ -1,6 +1,6 @@
 <!--
   PREMIUM GITHUB PROFILE
-  Replace YOUR-GITHUB-USERNAME everywhere with your GitHub username.
+  Replace sanjay102432 everywhere with your GitHub username.
 -->
 
 <div align="center">
@@ -13,8 +13,8 @@
 
 *Turning ideas into useful tools, experimenting with AI, and building things that matter.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
-[![Projects](https://img.shields.io/badge/Focus-AI%20%26%20ML-075985?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/sanjay102432)
+[![Projects](https://img.shields.io/badge/Focus-AI%20%26%20ML-075985?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/sanjay102432?tab=repositories)
 
 </div>
 
@@ -103,11 +103,11 @@ A file utility application concept for conversion and compression, with an empha
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjay102432&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay102432&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=sanjay102432&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
