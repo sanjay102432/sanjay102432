@@ -98,23 +98,5 @@
 
 </details>
 
-## Character-by-character loop
 
-This Python loop reads the pattern above and prints it one character at a time. Run it from this folder; press `Ctrl+C` to stop:
 
-```python
-from pathlib import Path
-import sys
-import time
-
-content = Path("samosa_pattern.md").read_text(encoding="utf-8")
-pattern = content.split("```text\n", 1)[1].split("\n```", 1)[0]
-
-while True:
-    for character in pattern:
-        sys.stdout.write(character)
-        sys.stdout.flush()
-    sys.stdout.write("\n\n")
-    sys.stdout.flush()
-    time.sleep(1)
-```
