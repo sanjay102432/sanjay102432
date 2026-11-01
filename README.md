@@ -8,6 +8,10 @@
 
 <br />
 
+<div align="center">
+
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,45:12182a,100:7c3aed&height=190&section=header&text=AI%20%2F%20ML%20EXPLORER&fontSize=45&fontColor=f5f3ff&fontAlignY=43&desc=INTELLIGENT%20SYSTEMS%20%2F%20INTEGRATIONS%20%2F%20EXPERIMENTS&descAlignY=65&descSize=14&animation=fadeIn" alt="AI, ML, and intelligent systems" />
 
 <br />
@@ -194,15 +198,14 @@ model deployment            ███████████░░░░░░�
 <div align="center">
 
 <a href="https://github.com/sanjay102432">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sanjay102432&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=08090d&title_color=7c3aed&icon_color=06b6d4&text_color=f5f3ff" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/sanjay102432">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay102432&layout=compact&hide_border=true&theme=dark&bg_color=08090d&title_color=7c3aed&text_color=f5f3ff" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjay102432&theme=github_dark" alt="GitHub profile summary" width="92%" />
 </a>
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay102432&bg_color=08090d&color=f5f3ff&line=7c3aed&point=06b6d4&area=true&area_color=211446&hide_border=true" alt="GitHub activity graph" width="92%" />
+<a href="https://github.com/sanjay102432?tab=repositories"><img src="https://img.shields.io/github/public-repos/sanjay102432?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=7c3aed&labelColor=08090d" alt="Public repositories" /></a>
+<a href="https://github.com/sanjay102432"><img src="https://img.shields.io/github/followers/sanjay102432?style=for-the-badge&label=FOLLOWERS&color=06b6d4&labelColor=08090d" alt="GitHub followers" /></a>
+<a href="https://github.com/sanjay102432"><img src="https://img.shields.io/github/last-commit/sanjay102432/agent-flight-recorder?style=for-the-badge&label=LATEST%20COMMIT&color=f5f3ff&labelColor=08090d" alt="Latest commit" /></a>
 
 </div>
 
@@ -234,6 +237,10 @@ Exploring machine learning, deep learning, generative AI, computer vision, and i
 <a href="https://www.linkedin.com/in/sanjay-bhoye-862912421/"><img src="https://img.shields.io/badge/CONNECT-06b6d4?style=for-the-badge&labelColor=08090d&logo=linkedin&logoColor=f5f3ff" alt="Connect" /></a>
 
 <br /><br />
+
+<sub>AI is not just a feature. It is a new material for building.</sub>
+
+</div>
 
 <sub>AI is not just a feature. It is a new material for building.</sub>
 
